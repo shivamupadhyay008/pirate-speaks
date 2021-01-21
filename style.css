@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: skyblue;
+}
+.lab{
+    background-color:whitesmoke ;
+    width: 80%;
+    height: 30vh;
+    margin: 0.5rem 0.5rem;
+    padding:2rem 2rem;
+    display: block;
+    font-size: 20px;
+    text-align: left;
+    border:1px solid black;
+}
+.container{
+    margin-block-start: 0px;
+    margin-left: 15em;
+}
+.head{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 5em;
+    background-color:grey;
+    padding: 2rem ;
+}
+.btn{
+    margin-inline-start: 0px;
+    padding: 0.5rem 2rem;
+    border-radius:0.5rem;
+    background-color:aqua ;
+    cursor:pointer;
+    font-size: 20px;
+}
